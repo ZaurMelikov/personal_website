@@ -114,20 +114,20 @@ a:hover{
 }
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 40px
+  right: 20%;
+  top: 7%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 250px;
-  bottom: 300px
+  left: 18%;
+  bottom: 37%;
 }
 
 .eagle{
   position: absolute;
-  left: 32rem;
-  bottom: 255px;
+  left: 33%;
+  bottom: 32%;
   width: 3rem;
   height: 3rem;
 }
@@ -142,8 +142,8 @@ a:hover{
   height: 6rem;
   width: 6rem;
   position: absolute;
-  right: 27rem;
-  top: 9rem;
+  right: 30%;
+  top: 17%;
 }
 
 .btn {
